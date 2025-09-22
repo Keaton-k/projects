@@ -1,1 +1,1 @@
-Each folder has different projects inside I am still filling out my CAD folder but my line following bot is located in the Capstone folder and the shredder is in the shredder folder.
+Each folder has different projects inside I am still filling out my CAD folder but my line following bot is located in the Capstone folder and the shredder is in the shredder folder. I would recommend looking at the capstone pdf for a brief over view of my robot.
